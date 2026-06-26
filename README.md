@@ -14,7 +14,7 @@ A simple web app to view public GitHub profiles by entering a username. Built us
 
 ## 🔗 Live Demo
 
-[👉 Click to View Live](https://hardik6765.github.io/GitHub-User-Finder/)
+[👉 Click to View Live](https://hardik6765.github.io/GitHub-Profile-Viewer/)
 
 ---
 
@@ -43,8 +43,7 @@ A simple web app to view public GitHub profiles by entering a username. Built us
 
 1. Clone the repo:
    ```bash
-   git clone https://adityadomle/GitHub-Profile-Viewer.git
+   git clone https://github.com/hardik6765/GitHub-GitHub-Profile-Viewer.get
 
-https://github.com/hardik6765/GitHub-GitHub-User-Finder
 
 
