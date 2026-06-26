@@ -7,7 +7,7 @@ A simple web app to view public GitHub profiles by entering a username. Built us
 
 ## 🖥️ Screenshot
 
-![Desktop Screenshot](/img.png)
+![Desktop Screenshot](/image.png)
 
 --- 
 
